@@ -129,3 +129,4 @@ dist
 .pnp.*
 
 pnpm-lock.yaml
+routes.md
